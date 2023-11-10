@@ -70,6 +70,7 @@ Rationale: This edge represents the relationship that a user wants or plans to a
 3. For read-heavy data, the graph database is easier for users to read and understand.
 <br>
 **Challenges:** <br>
+1. The query rules are strict. 
 
 
 
