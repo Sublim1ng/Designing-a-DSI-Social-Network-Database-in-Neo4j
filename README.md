@@ -2,3 +2,6 @@
 
 ## 1. Database Design and Setup
 #### 4 Types of Nodes and Properties
+**User:** <br>
+*properties:* 
+name: The name of the user.
