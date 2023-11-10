@@ -1,7 +1,7 @@
 # DSI Social Network Database in Neo4j
 
 ## 1. Database Design and Setup
-### 4 Types of Nodes and Properties
+### 4 Types of Nodes
 **User:** <br>
 *properties:* <br>
 name: The name of the user. <br>
