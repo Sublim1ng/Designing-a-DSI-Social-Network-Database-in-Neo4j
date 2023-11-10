@@ -68,6 +68,7 @@ Rationale: This edge represents the relationship that a user wants or plans to a
 1. This platform clearly displays the relationships between nodes.
 2. The design is flexible; properties or relationships can be edited at any time.
 3. For read-heavy data, the graph database format is more user-friendly and easier to understand. <br>
+
 **Challenges:** <br>
 1. The query rules are stringent, particularly when importing data.
 2. There are concerns about performance efficiency. Users must refresh the web page after each change to see updates.
