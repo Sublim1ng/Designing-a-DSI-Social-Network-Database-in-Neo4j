@@ -63,6 +63,9 @@ Source and destination: From User to Event. <br>
 Rationale: This edge represents the relationship that a user wants or plans to attend an event. <br>
 <br>
 
+## 2. The Potential Benefits and Challenges of the Platform
+
+
 
 
 
