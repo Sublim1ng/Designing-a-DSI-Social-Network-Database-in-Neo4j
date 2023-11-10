@@ -7,6 +7,8 @@
 name: The name of the user. <br>
 position: The job title or current position of the user. <br>
 interests: A list of user interests in the data science field. <br>
+*Rationale:*  <br>
+Users are the most important part of a social network, my User node captures the basic personal information of users.
 <br>
 **Post:** <br>
 *properties:* <br>
@@ -16,6 +18,8 @@ content: The content of the post. <br>
 author: The person who published the post. <br>
 timestamp: The time when the post was published. <br>
 likes: The number of likes the post received. <br>
+*Rationale:* <br>
+Users can share their opinions and thoughts by publishing posts. Those posts can be used for future communication.
 <br>
 **Reply:** <br>
 *properties:* <br>
@@ -23,6 +27,8 @@ content: The content of the reply. <br>
 author: The person who published the reply. <br>
 timestamp: The time when the reply was published. <br>
 likes: The number of likes the reply received. <br>
+*Rationale:* <br>
+Each user can reply to a specific post as comments, increasing interaction between users.
 <br>
 **Event:** <br>
 *properties:* <br>
@@ -32,6 +38,8 @@ date: The date the event is scheduled. <br>
 location: The location where the event is going to take place. <br>
 description: The description of the event. <br>
 attendees: The maximum capacity of the event. <br>
+*Rationale:* <br>
+This node gives information on future events in the data science field, which are suitable for users to participate.
 
 #### 5 Types of Edges
 **FRIENDS_WITH:** <BR>
