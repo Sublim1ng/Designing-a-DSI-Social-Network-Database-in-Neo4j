@@ -32,7 +32,35 @@ date: The date the event is scheduled. <br>
 location: The location where the event is going to take place. <br>
 description: The description of the event. <br>
 attendees: The maximum capacity of the event. <br>
-<br>
+
 #### 5 Types of Edges
+**FRIENDS_WITH:** <BR>
+Source and destination: From User to User. <br>
+Rationale: This edge represents the friendship between 2 users. <br>
+<br>
+**PUBLISHED:** <br>
+Source and destination: From User to Post. <br>
+Rationale: This edge represents the relationship that a user published a post. <br> 
+<br>
+**WROTE** <br>
+Source and destination: From User to Reply. <br>
+Rationale: This edge represents the relationship that a user wrote a reply. <br>
+<br>
+**IN_RESPONSE_TO** <br>
+Source and destination: From Reply to Post. <br>
+Rationale: This edge represents the relationship that a reply is in response to a post. <br>
+<br>
+**WANTS_TO_ATTEND** <br>
+Source and destination: From User to Event. <br>
+Rationale: This edge represents the relationship that a user wants or plans to attend an event. <br>
+<br>
+
+
+
+
+
+
+
+
 
 
