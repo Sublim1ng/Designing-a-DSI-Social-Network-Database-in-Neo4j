@@ -64,6 +64,12 @@ Rationale: This edge represents the relationship that a user wants or plans to a
 <br>
 
 ## 2. The Potential Benefits and Challenges of the Platform
+**Benefits:** <br>
+1. This platform can show the relationships between nodes clearly. 
+2. The design is flexible; you can edit properties or relationships anytime.
+3. For read-heavy data, the graph database is easier for users to read and understand.
+<br>
+**Challenges:** <br>
 
 
 
