@@ -1,7 +1,7 @@
 # DSI Social Network Database in Neo4j
 
 ## 1. Database Design and Setup
-#### 4 Types of Nodes and Properties
+### 4 Types of Nodes and Properties
 **User:** <br>
 *properties:* <br>
 name: The name of the user. <br>
@@ -41,7 +41,7 @@ attendees: The maximum capacity of the event. <br>
 *Rationale:* <br>
 This node gives information on future events in the data science field, which are suitable for users to participate. <br>
 
-#### 5 Types of Edges
+### 5 Types of Edges
 **FRIENDS_WITH:** <BR>
 Source and destination: From User to User. <br>
 Rationale: This edge represents the friendship between 2 users. <br>
